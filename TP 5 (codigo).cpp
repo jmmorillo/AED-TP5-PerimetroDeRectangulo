@@ -1,3 +1,8 @@
+/* Dados dos numeros positivos (base y altura) el programa devuelve el perimetro del rectangulo.
+/  Juan Manuel Morillo
+/ 12-05-2015
+*/
+
 #include <iostream>
 
 using namespace std;
